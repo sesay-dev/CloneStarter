@@ -1,16 +1,17 @@
-# Update 
+# Update 4/28/2016
 
-This was my first ever full-stack project. For some reason two people decided to 
-star the repository. While everything works solidly, it's ugly and I don't want 
-it showing up on my main Github user page. In order to remove those star ratings 
-and thus prevent this project from showing up showing up on my Github user page, 
-I've deleted the git history and re-pushed the repository to Github.
+This was my first ever full-stack project, built in February 2015. For some 
+reason two people decided to star the repository. While everything works 
+solidly, it's ugly and I don't want it showing up on my main Github user page. 
+In order to remove those star ratings and thus prevent this project from showing 
+up on my Github user page, I've deleted the git history and re-pushed the 
+repository to Github.
 
 # Description
 
 Clonestarter is a full-stack crowdfunding website for (fictional) cloning projects, based
 on Kickstarter. It was written in Ruby on Rails, JavaScript, jQuery, Backbone.js,
-HTML and CSS. Check it out at clonestarter.net[http://clonestarter.net]!
+HTML and CSS. Check it out at [clonestarter.net](http://clonestarter.net)!
 
 # Features
 
